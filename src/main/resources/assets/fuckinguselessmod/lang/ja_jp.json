@@ -1,0 +1,25 @@
+{
+  "text.fuckinguselessmod.config.title": "クソほど必要ないMOD",
+
+  "text.fuckinguselessmod.config.category.general": "一般",
+  "text.fuckinguselessmod.config.category.blocks": "ブロック",
+  "text.fuckinguselessmod.config.category.zalgo": "Zalgo",
+  "text.fuckinguselessmod.config.category.encoding": "エンコード",
+  "text.fuckinguselessmod.config.category.limits": "制限",
+
+  "text.fuckinguselessmod.config.enabled": "有効",
+  "text.fuckinguselessmod.config.mode": "モード",
+
+  "text.fuckinguselessmod.config.block_mode": "ブロックモード",
+  "text.fuckinguselessmod.config.blocks_enabled": "ブロック文字を有効化",
+  "text.fuckinguselessmod.config.block_chance": "ブロック文字発生率",
+
+  "text.fuckinguselessmod.config.zalgo_enabled": "Zalgoを有効化",
+  "text.fuckinguselessmod.config.zalgo_chance": "Zalgo発生率",
+
+  "text.fuckinguselessmod.config.encoding_pipeline": "エンコードパイプライン",
+  "text.fuckinguselessmod.config.bit_rotation": "ビット回転",
+  "text.fuckinguselessmod.config.xor_key": "XORキー",
+
+  "text.fuckinguselessmod.config.max_length": "最大文字数"
+}

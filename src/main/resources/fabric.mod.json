@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "fuckinguselessmod",
+  "version": "${version}",
+  "name": "Fucking Useless Mod",
+  "description": "Literally it adds some fucking useless stuffs!",
+  "authors": [
+    {
+      "name": "p0x38",
+      "contact": {
+        "homepage": "https://github.com/p0x38"
+      }
+    }
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.p0x38.fuckinguselessmod.client.FuckingUselessModClient"
+    ],
+    "modmenu": [
+      "me.p0x38.fuckinguselessmod.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=25",
+    "cloth-config": "*",
+    "modmenu": "*",
+    "placeholder-api": "*"
+  }
+}
